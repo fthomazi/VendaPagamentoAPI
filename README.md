@@ -1,4 +1,4 @@
-# 🔻 API DE PROCESSAMENTO DE VENDAS
+#  🧮 API DE PROCESSAMENTO DE VENDAS
 Foi construido uma API REST utilizando .NET que simula um processo de venda. A mesma não possui mecanismo de autenticação mas,
 possui persistência em um banco de dados.
 
@@ -56,11 +56,10 @@ Request URL = `https://localhost:7071/Vendas/idVenda` </br>
     Necessita apenas do ID da venda que deseja excluir </br>
    
 
-## 🔻 TECNOLOGIAS ENVOLVIDAS
+## ✨ TECNOLOGIAS ENVOLVIDAS
 - C#.NET
 - API REST 
 - SQL SERVER
 
 ## 🔻 CONTATOS
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-cosme-martins-bento-3963bb1b9/ 'Contato pelo LinkedIn')
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:emmanuelbento6@gmail.com 'Contato via Email')
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferthomazi/ 'Contato pelo LinkedIn')
